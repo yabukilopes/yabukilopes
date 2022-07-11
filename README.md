@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Guilherme Lopes
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yabukilopes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabukilopes&layout=compact&langs_count=7&theme=merko"/>
+  <img width=42% height="180em" src="https://github-readme-stats.vercel.app/api?username=yabukilopes&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabukilopes&layout=compact&langs_count=7&theme=merko"/>
 </div><br>
   <p> TLanguages & Tools 👨‍💻 🛠: </p>
 <div style="display: inline_block">
